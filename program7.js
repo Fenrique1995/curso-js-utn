@@ -1,0 +1,6 @@
+var var1="Pepe";
+var var2="Paquito";
+var var3=5/0;
+alert("Pepe es "+var1);
+alert("Paquito +2 es= "+(var2+2));
+alert("5/0 es= "+var3);
